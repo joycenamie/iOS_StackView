@@ -1,2 +1,3 @@
-# iOS_StackView
-Xcode stack view practice
+# iOS_StackView Exercise
+Using swift, XCode
+
